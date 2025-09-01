@@ -1,12 +1,12 @@
 
 # About me
-Hi there! My name is **Nguyễn Hồ Đăng Duy**, but you can call me **Denver Nguyễn** (and online I usually go online by **D3nverNg** — because adding numbers to your name instantly makes you 1337, right?).
+Hi there! My name is **Nguyễn Hồ Đăng Duy**, but you can call me **Denver Nguyễn** (and I usually go online by **D3nverNg** — because adding numbers to your name instantly makes you 1337, right?).
 
-I’m currently studying **Computer Networks & Telecommunications – Information Security** at **University of Science, Ho Chi Minh City**. My dream? To become a skilled **penetration tester (red team–oriented)** so that one day I can afford an XSR 155 (or the 900cc if life treats me well...) and maybe a Porsche 911 while we’re at it.
+I’m currently studying **Computer Networks & Telecommunications – Information Security** at **University of Science, Ho Chi Minh City** (f*cking long). My dream? To become a skilled **penetration tester (red team–oriented)** so that one day I can afford an XSR 155 (or the 900cc if life treats me well...) and maybe a Porsche 911!!!
 
 ### Skills
 - **Operating Systems**: I dual-boot Windows and Linux (Ubuntu & Kali) for pentesting and CTFs. Diving into red team skills has forced me to understand not just how to hack systems, but also how they actually work under the hood.
-- **Pentesting**: Completed the [Web Pentest course at CyberJutsu Academy](https://www.linkedin.com/posts/nhdduy67_im-excited-to-share-that-ive-officially-activity-7354030115342733312-xteg?utm_source=share&utm_medium=member_desktop&rcm=ACoAACieTKsBRDabRi0wlJlffFKqO1Dfd62lTZA) and currently leveling up with PortSwigger labs. Comfortable with exploiting the usual suspects like SQLi, XSS, XXE, etc. I also join weekly CTFs to sharpen my skills (and make friends who also think breaking things is fun).
+- **Pentesting**: Completed the [Web Penetraation Testing course](https://www.linkedin.com/posts/nhdduy67_im-excited-to-share-that-ive-officially-activity-7354030115342733312-xteg?utm_source=share&utm_medium=member_desktop&rcm=ACoAACieTKsBRDabRi0wlJlffFKqO1Dfd62lTZA)  at CyberJutsu Academy and currently leveling up with PortSwigger labs. Comfortable with exploiting the usual suspects like SQLi, XSS, XXE, etc. I also join weekly CTFs to sharpen my skills (and make friends who also think breaking things is fun).
 - **Red Teaming**: Enrolled in CyberJutsu’s Red Team course and playing HackTheBox for more experience. I know it’s a long, tough journey and the line between “Senior Pentester” and “Red Teamer” can be blurry… but hey, why stop when the road is just getting interesting?!
 
 ### Habits & Hobbies:
